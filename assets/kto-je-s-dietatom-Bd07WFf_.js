@@ -1,0 +1,1 @@
+import{s as e}from"./link-S7LRuTfm.js";import{s as t}from"./obsah-C8JEtW_-.js";import{c as n,l as r,n as i}from"./Bloky-BXTlp6OA.js";import{n as a}from"./Formular-DvC_Op_Y.js";var o=e(),s=()=>(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(r,{stitok:t.stitok,nadpis:t.nadpis,perex:t.text}),(0,o.jsx)(i,{}),(0,o.jsx)(n,{}),(0,o.jsx)(a,{})]});export{s as component};

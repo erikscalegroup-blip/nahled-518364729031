@@ -1,0 +1,1 @@
+import{s as e}from"./link-S7LRuTfm.js";import{o as t,s as n}from"./Bloky-BXTlp6OA.js";import{n as r}from"./Formular-DvC_Op_Y.js";var i=e(),a=()=>(0,i.jsxs)(`div`,{className:`pt-24`,children:[(0,i.jsx)(t,{}),(0,i.jsx)(n,{}),(0,i.jsx)(r,{})]});export{a as component};

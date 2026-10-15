@@ -1,0 +1,1 @@
+import{s as e,t}from"./link-S7LRuTfm.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`obal py-48 text-center`,children:[(0,n.jsx)(`h1`,{className:`t-sekcia`,children:`Tento pobyt sme nenašli.`}),(0,n.jsx)(t,{to:`/`,className:`btn btn-hlavne mt-8`,children:`Späť domov`})]});export{r as notFoundComponent};
